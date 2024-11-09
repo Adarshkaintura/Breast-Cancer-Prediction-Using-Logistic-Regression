@@ -11,5 +11,5 @@ This project uses a Logistic Regression model to predict whether a tumor is **Ca
 
 You can view and interact with the deployed project by clicking the link below:
 
-[View Deployed Project](<INSERT-YOUR-DEPLOYED-PROJECT-LINK-HERE>)
+[View Deployed Project](<[INSERT-YOUR-DEPLOYED-PROJECT-LINK-HERE](https://breast-cancer-prediction-using-logistic-regression-x9jhbvihzkn.streamlit.app/)>)
 
